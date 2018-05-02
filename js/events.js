@@ -25,6 +25,7 @@ function pressIt(){
 
 $(document).ready(function(){
 frameit();
+pressIt();
 // call functions here
 
 });
